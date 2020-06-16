@@ -8,6 +8,8 @@ Para o sistema funcionar é necessário que o arquivo "Códigos - Sistema.zip" s
 
 Após descompactar o arquivo, é necessário executar o script de criação do banco de dados, o banco foi desenvolvido utilizando MySQL.
 
+Não esqueça de atualizar com as informações do seu servidor APACHE o arquivo "conexaoBanco.php" localizado em "desafioSerasa/includes", pois é esse arquivo que faz a conexão entre o banco e o sistema.
+
 Após realizar as instruções acima, o sistema ira funcionar.
 
 Agradeço pela oportunidade de participar do desafio.
