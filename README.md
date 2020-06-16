@@ -6,7 +6,7 @@ O Script para a criação do banco, arquivos de importação, diagrama de entida
 
 Para o sistema funcionar é necessário que o arquivo "Códigos - Sistema.zip" seja descompactado em um local onde seja lido por um servidor APACHE. 
 
-Após descompactar o arquivo, é necessário executar o script de criação do banco de dados, a linguagem que foi utilizada para o desenvolvimento do banco é MySQL.
+Após descompactar o arquivo, é necessário executar o script de criação do banco de dados, o banco foi desenvolvido utilizando MySQL.
 
 Após realizar as instruções acima, o sistema ira funcionar.
 
